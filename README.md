@@ -29,7 +29,21 @@ Open the source directory and copy the elements,events,components and codes you 
 
 After you copied everything you need over,delete the created directory for OpenCore.
 
+### For Sketchware Pro Users :
 
+Step #1,download the sketchware backup file from this repo
+
+The sketchware backup file can be found on this repo in :
+
+`OpenCore/source/sketchware-pro/OpenCore.swb`
+
+Download the version you want from that directory and save it on your smartphone where you want.
+
+Now open sketchware pro,and press on the Restore Button.
+
+Head over to the directory you saved the OpenCore.swb file,select it and continue.
+
+Now sketchware pro will import the project over to your app,and you can open it and modify the content you need or want.You can also copy elements and transfer it for another project.
 
 # Support & Features
 
