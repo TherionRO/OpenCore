@@ -5,7 +5,9 @@ OpenCore is a modern,opensource,lightweight and simple library with elements,too
 
 OpenCore is the new [XCore](https://github.com/TherionRO/XCore) with new elements,components and more stable due to it being updated.
 
-# Installation
+# Installation & Usage
+
+
 
 
 
