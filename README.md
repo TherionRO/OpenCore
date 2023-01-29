@@ -7,7 +7,27 @@ OpenCore is the new [XCore](https://github.com/TherionRO/XCore) with new element
 
 # Installation & Usage
 
+Support for Linux,Windows,MacOS and Chrome OS!
 
+Step #1,clone this repo on your local machine using the following command in your CLI :
+
+`git clone https://github.com/TherionRO/OpenCore`
+
+This command will download the OpenCore repo locally on your machine.
+
+Step #2,import OpenCore content on your Android Studio project/Sketchware PRO
+
+### For Android Studio Users :
+
+Open your android studio project and create a new directory.
+
+OpenCore source can be found in 
+
+`OpenCore.zip : app/src/main/java`
+
+Open the source directory and copy the elements,events,components and codes you need over to your original project source.Make sure to backup everything in case something goes wrong.
+
+After you copied everything you need over,delete the created directory for OpenCore.
 
 
 
