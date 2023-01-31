@@ -202,6 +202,7 @@ public class MainActivity extends AppCompatActivity {
 	private TextView textview10;
 	private TextView textview11;
 	private TextView textview12;
+	private TextView textview27;
 	private TextView textview13;
 	private TextView textview14;
 	private TextView textview17;
@@ -210,6 +211,7 @@ public class MainActivity extends AppCompatActivity {
 	private EditText edittext3;
 	private EditText edittext4;
 	private EditText edittext5;
+	private EditText edittext8;
 	private EditText edittext2;
 	private EditText edittext6;
 	private AutoCompleteTextView autocomplete1;
@@ -224,6 +226,7 @@ public class MainActivity extends AppCompatActivity {
 	private Button button2;
 	private Button button3;
 	private Button button4;
+	private Button button9;
 	private Button button5;
 	private Button button6;
 	private Button button7;
@@ -410,6 +413,7 @@ public class MainActivity extends AppCompatActivity {
 		textview10 = findViewById(R.id.textview10);
 		textview11 = findViewById(R.id.textview11);
 		textview12 = findViewById(R.id.textview12);
+		textview27 = findViewById(R.id.textview27);
 		textview13 = findViewById(R.id.textview13);
 		textview14 = findViewById(R.id.textview14);
 		textview17 = findViewById(R.id.textview17);
@@ -418,6 +422,7 @@ public class MainActivity extends AppCompatActivity {
 		edittext3 = findViewById(R.id.edittext3);
 		edittext4 = findViewById(R.id.edittext4);
 		edittext5 = findViewById(R.id.edittext5);
+		edittext8 = findViewById(R.id.edittext8);
 		edittext2 = findViewById(R.id.edittext2);
 		edittext6 = findViewById(R.id.edittext6);
 		autocomplete1 = findViewById(R.id.autocomplete1);
@@ -432,6 +437,7 @@ public class MainActivity extends AppCompatActivity {
 		button2 = findViewById(R.id.button2);
 		button3 = findViewById(R.id.button3);
 		button4 = findViewById(R.id.button4);
+		button9 = findViewById(R.id.button9);
 		button5 = findViewById(R.id.button5);
 		button6 = findViewById(R.id.button6);
 		button7 = findViewById(R.id.button7);
@@ -577,6 +583,13 @@ public class MainActivity extends AppCompatActivity {
 		});
 		
 		button4.setOnClickListener(new View.OnClickListener() {
+			@Override
+			public void onClick(View _view) {
+				
+			}
+		});
+		
+		button9.setOnClickListener(new View.OnClickListener() {
 			@Override
 			public void onClick(View _view) {
 				

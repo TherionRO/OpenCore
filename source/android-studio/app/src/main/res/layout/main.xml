@@ -58,7 +58,7 @@
 						android:layout_width="wrap_content"
 						android:layout_height="wrap_content"
 						android:padding="8dp"
-						android:text="OpenCore 1.0.0\n  By TherionRO"
+						android:text="OpenCore 1.0.1\n  By TherionRO"
 						android:textSize="25sp"
 						android:textStyle="bold"
 						android:textColor="#9C27B0"
@@ -153,6 +153,14 @@
 						android:textSize="12sp"
 						android:textColor="#000000" />
 					<TextView
+						android:id="@+id/textview27"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:padding="8dp"
+						android:text="ColoredTextView"
+						android:textSize="12sp"
+						android:textColor="#9C27B0" />
+					<TextView
 						android:id="@+id/textview13"
 						android:layout_width="wrap_content"
 						android:layout_height="wrap_content"
@@ -226,6 +234,15 @@
 						android:textStyle="bold|italic"
 						android:textColor="#000000"
 						android:hint="BoldAndItalic Edit Text"
+						android:textColorHint="#607D8B" />
+					<EditText
+						android:id="@+id/edittext8"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:padding="8dp"
+						android:textSize="12sp"
+						android:textColor="#9C27B0"
+						android:hint="Colored Edit Text"
 						android:textColorHint="#607D8B" />
 					<EditText
 						android:id="@+id/edittext2"
@@ -360,6 +377,14 @@
 						android:textSize="12sp"
 						android:textStyle="bold|italic"
 						android:textColor="#000000" />
+					<Button
+						android:id="@+id/button9"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:padding="8dp"
+						android:text="ColoredButton"
+						android:textSize="12sp"
+						android:textColor="#9C27B0" />
 					<Button
 						android:id="@+id/button5"
 						android:layout_width="wrap_content"
