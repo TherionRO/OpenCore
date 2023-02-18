@@ -43,7 +43,7 @@ Now open sketchware pro,and press on the Restore Button.
 
 Head over to the directory you saved the OpenCore.swb file,select it and continue.
 
-Now sketchware pro will import the project over to your app,and you can open it and modify the content you need or want.You can also copy elements and transfer it for another project.
+Now sketchware pro will import the project over to your app,and you can open it and modify the content you need or want.You can also copy elements and transfer them to another project.
 
 # Support & Features
 
